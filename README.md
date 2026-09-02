@@ -1,6 +1,6 @@
 <div align="center">
 
-# QUICK-CHAT 💬
+# Chat Space💬
 
 Real-Time Messaging, Instant Connections
 
